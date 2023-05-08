@@ -1,0 +1,6 @@
+.blog-list-container {
+  width: 95%;
+  max-width: 900px;
+  list-style-type: none;
+  padding: 20px;
+}
